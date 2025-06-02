@@ -1,4 +1,4 @@
-This project is a basic Income and Expense Tracker developed using C# and a local database (e.g., SQL Server or SQLite). It allows users to add, view, update, and delete their income and expense records.
+This project is a basic Income and Expense Tracker developed using C# and a local database (Microsoft SQL Server). It allows users to add, view, update, and delete their income and expense records.
 
 🛠️ Key Features:
 Add Record (Create): Users can input new income or expense entries with details like amount, type (income/expense), date, and description.
